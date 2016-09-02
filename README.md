@@ -11,6 +11,12 @@
 
 Young Stock Money is a stock simulator where you can play, level up, and gamble away digital money on Real Time Stocks! Whether you are training, playing around, or showing off your high score “gains”, Young Stock Money is an exciting game due to the wonderful combination of luck and skill. If it were solely a game of skill, the inexperienced wouldn't play because they would lose their digital cash every time. If it were too much about luck, the professional players would give up and never test their success from Young Stock Money against the wolves of Wall Street!
 
+---
+### Trello Link 
+
+[Young Stock Money Trello](https://trello.com/b/P0fQ9iXh/project-4-full-stack-application)
+
+---
 
 ---
 ### Heroku Link (Link to hosted app)
