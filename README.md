@@ -34,6 +34,7 @@ Young Stock Money will use the following languages and technologies:
 * MongoDB
 * Express
 * AJAX
+* Socket.io
 * Mongoose
 * Angular
 * NodeJs
