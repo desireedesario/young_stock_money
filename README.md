@@ -11,6 +11,10 @@
 
 Young Stock Money is a stock simulator where you can play, level up, and gamble away digital money on Real Time Stocks! Whether you are training, playing around, or showing off your high score “gains”, Young Stock Money is an exciting game due to the wonderful combination of luck and skill. If it were solely a game of skill, the inexperienced wouldn't play because they would lose their digital cash every time. If it were too much about luck, the professional players would give up and never test their success from Young Stock Money against the wolves of Wall Street!
 
+---
+### Trello Link 
+
+[Young Stock Money Trello](https://trello.com/b/P0fQ9iXh/project-4-full-stack-application)
 
 ---
 ### Heroku Link (Link to hosted app)
@@ -30,6 +34,7 @@ Young Stock Money will use the following languages and technologies:
 * MongoDB
 * Express
 * AJAX
+* Socket.io
 * Mongoose
 * Angular
 * NodeJs
@@ -42,6 +47,7 @@ Young Stock Money will use the following languages and technologies:
 * Bootstrap
 * Heroku
 * JWTs
+* Yahoo Finance API
 
 ---
 
@@ -98,3 +104,8 @@ ERD will consist of three models
 | Nav login/out | Signed-In User | see a sign out link and not a sign in link |
 | More documentation | User | be able to go to the backend homepage and see documentation on the API |
 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 1b1b96dbc9cefec55f71f27bd28da238cfa75d32
