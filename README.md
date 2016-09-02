@@ -46,6 +46,7 @@ Young Stock Money will use the following languages and technologies:
 * Bootstrap
 * Heroku
 * JWTs
+* Yahoo Finance API
 
 ---
 
