@@ -56,11 +56,11 @@ The name of the game:
 
 As a user you begin as signing up to Young Money Stock, and start off with 50,000 dollars.
 
-![What!?](readmeImg/what.gif)
+![What!?](http://replygif.net/i/1403.gif)
 
 LET US BUY AND SELL! Just kidding. We do not want our user to have this ability until they have earned it. This means that there will be certain levels into the game. Level one will give the user a time delay to make sure they want to buy/sell. When I am done with this functionality, I will place in a feature that will estimate the future outcome of the user’s shares based off a certain past history of that stock. After a certain amount of money is added into the user’s data (from both stock and cash value), level two will come into play where the feature will disappear and the game will now be played with a click of a button AT THE USER’S OWN RISK.
 
-![Level Up!](readmeImg/giphy.gif)
+![Level Up!](http://66.media.tumblr.com/tumblr_m2u6wcClgw1qe29dro1_500.gif)
 
 Why is this worth it? People who are familiar with stocks do not wish to waste their skill into a game. However, these users are getting points, losing points, and showing off their skills, but they are doing it with stocks. They are also gambling, but they are gambling without a risk. It is a stock trainer, gaming fun attractive way to impress anyone with your skills before (or during) going out with your precious IRL cash.
 
