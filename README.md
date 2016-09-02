@@ -74,3 +74,27 @@ ERD will consist of three models
 
 ![ERDs](readmeImg/erd.png)
 
+---
+
+#### User Stories
+
+| Programmer Note | As a .. | I want to.. |
+|---------|---------|---------|
+| Profile login | User | be able to login so that I can see my money and stocks. |
+| Obtaining my fake stock money | User | be able to sign up in the game under my own username to that I could obtain a starting off amount of money for my stocks |
+| Display | User | be able to see the main dashboard. |
+| Buy/Sell | User | be able to purchase and sell stocks with my fake money | 
+| Shares | User | be able to see my shares multiply from each company. | 
+| Portfolio | User | make my own portfolio and add any stocks or investments I have received from the game to display on my portfolio so that others will see how much of a skills mofo I am. |
+| Money on My Mind | User | see my cash and sum of my stock money always on my navigation bar.  |
+| Money on my Mind Part 2 | User | see if I lost or made any money when I first log into the page. (display) |
+| Search Features | User | filter searching for stocks by most popular, most trending, and stocks related to the companies I already have shares in. |
+| Reset button | User | be able to get my initial money back in case I realize that I am not so good at the game in the beginning and lose all my money |
+| Show a single stock | User | be able to see a single stock. |
+| See all Stocks | User | be able to see all stocks |
+| Sign In | User | be able to sign in |
+| Sign Up | New User | be able to sign-up |
+| Log Out | Signed-User | be able to log out |
+| Nav login/out | Signed-In User | see a sign out link and not a sign in link |
+| More documentation | User | be able to go to the backend homepage and see documentation on the API |
+
