@@ -104,8 +104,9 @@ ERD will consist of three models
 | Nav login/out | Signed-In User | see a sign out link and not a sign in link |
 | More documentation | User | be able to go to the backend homepage and see documentation on the API |
 
-<<<<<<< HEAD
-=======
+---
+### Wireframe
 
+[Wireframe](readmeImg/wireframe.jpg)
 
->>>>>>> 1b1b96dbc9cefec55f71f27bd28da238cfa75d32
+Just kidding, coming soon!
