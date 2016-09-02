@@ -107,6 +107,5 @@ ERD will consist of three models
 ---
 ### Wireframe
 
-[Wireframe](readmeImg/wireframe.jpg)
+![Wireframe](readmeImg/wireframe.jpg)
 
-Just kidding, coming soon!
