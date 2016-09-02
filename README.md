@@ -17,8 +17,6 @@ Young Stock Money is a stock simulator where you can play, level up, and gamble 
 [Young Stock Money Trello](https://trello.com/b/P0fQ9iXh/project-4-full-stack-application)
 
 ---
-
----
 ### Heroku Link (Link to hosted app)
 
 [Heroku](http://www.shroyco.com/sites/default/files/coming-soon_0.jpg)
